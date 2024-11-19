@@ -5,3 +5,4 @@ Day 1:
 - Why Selenium Webdriver is an API?
 - Environment setup (Notes)
 - Test case
+- Assignment
